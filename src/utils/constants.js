@@ -1,0 +1,108 @@
+import search from "../assets/icons/Search.svg";
+import wishlist from "../assets/icons/Wishlist.svg";
+import cart from "../assets/icons/Cart.svg";
+import user from "../assets/icons/user.svg";
+import send from "../assets/icons/Send.svg";
+import QRCode from "../assets/icons/Qr-Code.svg";
+import AppStore from "../assets/icons/AppStore.svg";
+import GooglePlay from "../assets/icons/GooglePlay.svg";
+import facebook from "../assets/icons/Facebook.svg";
+import twitter from "../assets/icons/Twitter.svg";
+import instegram from "../assets/icons/instagram.svg";
+import linkedin from "../assets/icons/Linkedin.svg";
+import menu from "../assets/icons/menu.svg";
+import back from "../assets/icons/Back.svg";
+import viewEye from "../assets/icons/eye-view.svg";
+import hideEye from "../assets/icons/eye-hide.svg";
+import arrowRight from "../assets/icons/arrow-right.svg";
+import arrowLeft from "../assets/icons/arrow-left.svg";
+import star from "../assets/icons/star.svg";
+import heart from "../assets/icons/heart.svg";
+import quickView from "../assets/icons/quick-view.svg";
+import customerSevices from "../assets/icons/customer-services.svg";
+import delivery from "../assets/icons/delivery.svg";
+import secure from "../assets/icons/secure.svg";
+import freeReturn from "../assets/icons/Icon-return.svg";
+import remove from "../assets/icons/icon-delete.svg";
+import cellPhone from "../assets/icons/category-cellPhone.png";
+import computer from "../assets/icons/category-computer.svg";
+import headphone from "../assets/icons/category-headphone.svg";
+import gamepad from "../assets/icons/category-gamepad.svg";
+import minus from "../assets/icons/icon-minus.svg";
+import plus from "../assets/icons/icon-plus.svg";
+import mallbag from "../assets/icons/icon-mallbag.svg";
+import cancel from "../assets/icons/icon-cancel.svg";
+import reviews from "../assets/icons/Icon-Reviews.svg";
+import logout from "../assets/icons/Icon-logout.svg";
+
+import side from "../assets/images/side-image.png";
+import controller from "../assets/images/controller.png";
+import keyboard from "../assets/images/keyboard.png";
+import monitor from "../assets/images/monitor.png";
+import chair from "../assets/images/chair.png";
+import iphone from "../assets/images/iphone-image.png";
+import apple from "../assets/icons/apple-logo.svg";
+import gucciSavoy from "../assets/images/gucci-savoy.png";
+import gucciCoat from "../assets/images/gucci-coat.png";
+import cooler from "../assets/images/cooler.png";
+import bookShelf from "../assets/images/book-shelf.png";
+import smartWatch from "../assets/icons/category-smartWatch.svg";
+import camera from "../assets/icons/category-camera.svg";
+
+export const navItems = [
+  { text: "home", path: "" },
+  { text: "contact", path: "contact" },
+  { text: "about", path: "about" },
+  { text: "sign up", path: "signup" },
+];
+
+export const searchIcon = search;
+export const wishlistIcon = wishlist;
+export const cartIcon = cart;
+export const userIcon = user;
+export const sendIcon = send;
+export const QRCodeIcon = QRCode;
+export const AppStoreIcon = AppStore;
+export const GooglePlayIcon = GooglePlay;
+export const facebookIcon = facebook;
+export const twitterIcon = twitter;
+export const instegramIcon = instegram;
+export const linkedinIcon = linkedin;
+export const menuIcon = menu;
+export const backIcon = back;
+export const viewEyeIcon = viewEye;
+export const hideEyeIcon = hideEye;
+export const arrowRightIcon = arrowRight;
+export const arrowLeftIcon = arrowLeft;
+export const starIcon = star;
+export const heartIcon = heart;
+export const quickViewIcon = quickView;
+export const customerSevicesIcon = customerSevices;
+export const deliveryIcon = delivery;
+export const secureIcon = secure;
+export const returnIcon = freeReturn;
+export const deleteIcon = remove;
+export const cellPhoneIcon = cellPhone;
+export const computerIcon = computer;
+export const smartWatchIcon = smartWatch;
+export const cameraIcon = camera;
+export const headphoneIcon = headphone;
+export const gamepadIcon = gamepad;
+export const minusIcon = minus;
+export const plusIcon = plus;
+export const mallbagIcon = mallbag;
+export const cancelIcon = cancel;
+export const reviewsIcon = reviews;
+export const logoutIcon = logout;
+
+export const sideImage = side;
+export const controllerImage = controller;
+export const keyboardImage = keyboard;
+export const monitorImage = monitor;
+export const chairImage = chair;
+export const iphoneImage = iphone;
+export const appleLogo = apple;
+export const gucciSavoyImage = gucciSavoy;
+export const gucciCoatImage = gucciCoat;
+export const coolerImage = cooler;
+export const bookShelfImage = bookShelf;
